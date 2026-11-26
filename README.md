@@ -6,11 +6,11 @@
 </div>
 
 
-PêÂ¡gina êÂºnica (`index.html`, self-contained, Tailwind via CDN) com uma biblioteca de **16 prompts prontos pra usar** (13 system prompts e 3 entrevistas que escolhem por vocêÂª), no estilo visual INEMA.CLUB (dark premium êÂ¢mbar). Cada prompt tem um cabeêÂ§alho (o que êÂ© êÂ· quando usar êÂ· têÂ©cnicas êÂ· por que funciona) e um **botêÂ£o "Copiar"** que copia o bloco bruto.
+PêÂ¡gina êÂºnica (`index.html`, self-contained, Tailwind via CDN) com uma biblioteca de **16 prompts prontos pra usar** (13 system prompts e 3 entrevistas que escolhem por vocêÂª), no estilo visual ARCKHÉ AI (dark premium êÂ¢mbar). Cada prompt tem um cabeêÂ§alho (o que êÂ© êÂ· quando usar êÂ· têÂ©cnicas êÂ· por que funciona) e um **botêÂ£o "Copiar"** que copia o bloco bruto.
 
-**O que êÂ©:** 13 system prompts completos, montados a partir das têÂ©cnicas do [Manual Oculto da IA](https://inematds.github.io/manual-oculto-ia/) ê¢â¬â copie, troque os `{campos}`, cole no system prompt / `CLAUDE.md` / campo de instruêÂ§êÂµes do seu agente.
+**O que êÂ©:** 13 system prompts completos, montados a partir das têÂ©cnicas do [Manual Oculto da IA](https://linnoff88-dev.github.io/arckhe-/) ê¢â¬â copie, troque os `{campos}`, cole no system prompt / `CLAUDE.md` / campo de instruêÂ§êÂµes do seu agente.
 
-**Publicado em:** https://inematds.github.io/prompts-prontos/
+**Publicado em:** https://linnoff88-dev.github.io/arckhe-/
 
 ## Os 16 prompts
 
@@ -27,13 +27,13 @@ PêÂ¡gina êÂºnica (`index.html`, self-contained, Tailwind via CDN) com 
 11. Professor / Explicador
 12. Pesquisa Profunda (multi-fonte + verificaêÂ§êÂ£o adversarial)
 13. Extrator Estruturado / Classificador
-14. Orientador de Cursos INEMA (entrevista ê¢â â 3 cursos do catêÂ¡logo oficial)
+14. Orientador de Cursos ARCKHÉ (entrevista ê¢â â 3 cursos do catêÂ¡logo oficial)
 15. Qual AutomaêÂ§êÂ£o Montar (configuraêÂ§êÂ£o, skill, hook, MCP ou mod)
-16. Qual Kit de Atendimento INEMA (clêÂ­nica, academia, fisioterapia, nutriêÂ§êÂ£o, hotel, restaurante)
+16. Qual Kit de Atendimento ARCKHÉ (clêÂ­nica, academia, fisioterapia, nutriêÂ§êÂ£o, hotel, restaurante)
 
 ---
 
-INEMA.CLUB êÂ· Prompts Prontos êÂ· 2026
+ARCKHÉ AI êÂ· Prompts Prontos êÂ· 2026
 
 ---
 
